@@ -1,15 +1,7 @@
 # Awesome-CAV-System-Paper
 System papers for connected and autonomous vehicle research
 
-<<<<<<< Updated upstream
-**Target venues**: robotics conferences (*IROS/ICRA*); real-time system conferences (*RTSS/RTAS*); computing system conferences (*OSDI/SOSP/ATC/EuroSys/NSDI/ASPLOS/MICRO/HPCA/ISCA/MobiCom/MobiSys/SenSys/SEC*); robotics journals (*Science Robotics/T-RO/SoRo/RA-L*).
-=======
-<<<<<<< HEAD
-**Target venues**: robotics conferences (*IROS/ICRA*); real-time system conferences (*RTSS/RTAS*); computing system conferences (*OSDI/SOSP/NSDI/ATC/EuroSys/ASPLOS/MobiCom/MobiSys/SenSys/SEC/ICDCS/MICRO/HPCA*); robotics journals (*Science Robotics/T-RO/SoRo/RA-L*).
-=======
-**Target venues**: robotics conferences (*IROS/ICRA*); real-time system conferences (*RTSS/RTAS*); computing system conferences (*OSDI/SOSP/ATC/EuroSys/NSDI/ASPLOS/MICRO/HPCA/ISCA/MobiCom/MobiSys/SenSys/SEC*); robotics journals (*Science Robotics/T-RO/SoRo/RA-L*).
->>>>>>> 01b79602da1b97502f632f7f7fcad31a78e118b6
->>>>>>> Stashed changes
+**Target venues**: robotics conferences (*IROS/ICRA*); real-time system conferences (*RTSS/RTAS*); computing system conferences (*OSDI/SOSP/ATC/EuroSys/NSDI/ASPLOS/MICRO/HPCA/ISCA/MobiCom/MobiSys/SenSys/SEC/ICDCS*); robotics journals (*Science Robotics/T-RO/SoRo/RA-L*).
 
 ## End-to-End System
 [EuroSys'22] [D3: A Dynamic Deadline-Driven Approach for Building Autonomous Vehicles](https://dl.acm.org/doi/pdf/10.1145/3492321.3519576) </br>
