@@ -1,12 +1,22 @@
 # Awesome-CAV-System-Paper
 System papers for connected and autonomous vehicle research
 
+<<<<<<< Updated upstream
 **Target venues**: robotics conferences (*IROS/ICRA*); real-time system conferences (*RTSS/RTAS*); computing system conferences (*OSDI/SOSP/ATC/EuroSys/NSDI/ASPLOS/MICRO/HPCA/ISCA/MobiCom/MobiSys/SenSys/SEC*); robotics journals (*Science Robotics/T-RO/SoRo/RA-L*).
+=======
+<<<<<<< HEAD
+**Target venues**: robotics conferences (*IROS/ICRA*); real-time system conferences (*RTSS/RTAS*); computing system conferences (*OSDI/SOSP/NSDI/ATC/EuroSys/ASPLOS/MobiCom/MobiSys/SenSys/SEC/ICDCS/MICRO/HPCA*); robotics journals (*Science Robotics/T-RO/SoRo/RA-L*).
+=======
+**Target venues**: robotics conferences (*IROS/ICRA*); real-time system conferences (*RTSS/RTAS*); computing system conferences (*OSDI/SOSP/ATC/EuroSys/NSDI/ASPLOS/MICRO/HPCA/ISCA/MobiCom/MobiSys/SenSys/SEC*); robotics journals (*Science Robotics/T-RO/SoRo/RA-L*).
+>>>>>>> 01b79602da1b97502f632f7f7fcad31a78e118b6
+>>>>>>> Stashed changes
 
 ## End-to-End System
 [EuroSys'22] [D3: A Dynamic Deadline-Driven Approach for Building Autonomous Vehicles](https://dl.acm.org/doi/pdf/10.1145/3492321.3519576) </br>
 [MICRO'21] [Building the Computing System for Autonomous Micromobility Vehicles: Design Constraints and Architectural Optimizations](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9251973) </br>
 [ISCA'21] [RoboX: An End-to-End Solution to Accelerate Autonomous Control in Robotics](https://ieeexplore.ieee.org/document/8416849) </br>
+[IoTJ'21] [Computing Systems for Autonomous Driving: State-of-the-Art and Challenges](https://www.weisongshi.org/papers/liu21-CSAD.pdf) </br>
+[PIEEE'19] [Edge Computing for Autonomous Driving: Opportunities and Challenges](https://www.weisongshi.org/papers/liu19-EdgeAV.pdf) </br>
 [IEEE-Micro'15] [An Open Approach to Autonomous Vehicles](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7368032) </br>
 
 ## Benchmark and Characterization
@@ -29,6 +39,7 @@ System papers for connected and autonomous vehicle research
 [MobiSys'22] [Motion Inspires Notion: Self-supervised Visual-LiDAR Fusion for Environment Depth Estimation](https://dl.acm.org/doi/pdf/10.1145/3498361.3538918) </br>
 [RTAS'22] [Brief Industry Paper: Enabling Level-4 Autonomous Driving on a Single $1k Off-the-Shelf Card](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9804610) </br>
 [RTAS'22] [Brief Industry Paper: The Necessity of Adaptive Data Fusion in Infrastructure-Augmented Autonomous Driving System](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9804585) </br>
+[ICDCS'22] [To Turn or Not To Turn, SafeCross is the Answer](https://www.weisongshi.org/papers/wu22-SafeCross.pdf) </br>
 [MobiCom'21] [VI-eye: semantic-based 3D point cloud registration for infrastructure-assisted autonomous driving](https://aiot.ie.cuhk.edu.hk/papers/VI_Eye.pdf) </br>
 [MICRO'21] [Archytas: A Framework for Synthesizing and Dynamically Optimizing Accelerators for Robotic Localization](https://dl.acm.org/doi/pdf/10.1145/3466752.3480077) </br>
 [HPCA'21] [Eudoxus: Characterizing and Accelerating Localization in Autonomous Machines](https://arxiv.org/pdf/2012.01353.pdf) </br>
@@ -44,6 +55,8 @@ System papers for connected and autonomous vehicle research
 [RA-L'21] [Oops! It’s Too Late. Your Autonomous Driving System Needs a Faster Middleware](https://weisongshi.org/papers/wu21-RAL.pdf) </br>
 [ATC'21] [DART: A Scalable and Adaptive Edge Stream Processing Engine](https://www.usenix.org/conference/atc21/presentation/liu) </br>
 [RTSS'21] [A Middleware Protocol for Time-Critical Wireless Communication of Large Data Samples](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9622332) </br>
+[SEC'19] [E2M: An Energy-Efficient Middleware for Computer Vision Applications on Autonomous Mobile Robots](https://www.weisongshi.org/papers/liu19-E2M.pdf) </br>
+[ICDCS'18] [OpenVDAP: An Open Vehicular Data Analytics Platform for CAVs](https://www.weisongshi.org/papers/zhang18-OpenVDAP.pdf) </br>
 
 ## Operating System
 [OSDI'22] [Microsecond-scale Preemption for Concurrent GPU-accelerated DNN Inferences](https://www.usenix.org/system/files/osdi22-han.pdf) </br>
