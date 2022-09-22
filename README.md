@@ -61,7 +61,7 @@ System papers for connected and autonomous vehicle research
 [ISCA'21] [RoboX: An End-to-End Solution to Accelerate Autonomous Control in Robotics](https://ieeexplore.ieee.org/document/8416849) </br>
 [MICRO'21] [Archytas: A Framework for Synthesizing and Dynamically Optimizing Accelerators for Robotic Localization](https://dl.acm.org/doi/pdf/10.1145/3466752.3480077) </br>
 [HPCA'21] [Eudoxus: Characterizing and Accelerating Localization in Autonomous Machines](https://arxiv.org/pdf/2012.01353.pdf) </br>
-[RTAS'20] [Co-Optimizing Performance and Memory Footprint Via Integrated CPU/GPU Memory Management, an Implementation on Autonomous Driving Platform](https://ieeexplore.ieee.org/abstract/document/9113098)
+[RTAS'20] [Co-Optimizing Performance and Memory Footprint Via Integrated CPU/GPU Memory Management, an Implementation on Autonomous Driving Platform](https://ieeexplore.ieee.org/abstract/document/9113098) </br>
 [ASPLOS'18] [The Architectural Implications of Autonomous Driving: Constraints and Acceleration](https://dl.acm.org/doi/pdf/10.1145/3173162.3173191) </br>
 [RTAS'17] [An Evaluation of the NVIDIA TX1 for Supporting Real-time Computer-Vision Workloads](https://ieeexplore.ieee.org/abstract/document/7939053) </br>
 
