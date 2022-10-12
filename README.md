@@ -70,4 +70,6 @@ System papers for connected and autonomous vehicle research
 [ASPLOS'18] [The Architectural Implications of Autonomous Driving: Constraints and Acceleration](https://dl.acm.org/doi/pdf/10.1145/3173162.3173191) </br>
 [RTAS'17] [An Evaluation of the NVIDIA TX1 for Supporting Real-time Computer-Vision Workloads](https://ieeexplore.ieee.org/abstract/document/7939053) </br>
 
+## V2X / Connected Vehicles
+
 Another awesome [Awesome Autonomous Driving](https://github.com/autonomousdrivingkr/Awesome-Autonomous-Driving)
