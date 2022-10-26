@@ -32,10 +32,10 @@ System papers for connected and autonomous vehicle research
 [RTAS'22] [Brief Industry Paper: Enabling Level-4 Autonomous Driving on a Single $1k Off-the-Shelf Card](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9804610) </br>
 [RTAS'22] [Brief Industry Paper: The Necessity of Adaptive Data Fusion in Infrastructure-Augmented Autonomous Driving System](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9804585) </br>
 [ICDCS'22] [To Turn or Not To Turn, SafeCross is the Answer](https://www.weisongshi.org/papers/wu22-SafeCross.pdf) </br>
-[CVPR'21] [Towards Streaming Perception](https://arxiv.org/pdf/2005.10420.pdf) </br>
 [MobiCom'21] [VI-eye: semantic-based 3D point cloud registration for infrastructure-assisted autonomous driving](https://aiot.ie.cuhk.edu.hk/papers/VI_Eye.pdf) </br>
 [MICRO'21] [Archytas: A Framework for Synthesizing and Dynamically Optimizing Accelerators for Robotic Localization](https://dl.acm.org/doi/pdf/10.1145/3466752.3480077) </br>
 [HPCA'21] [Eudoxus: Characterizing and Accelerating Localization in Autonomous Machines](https://arxiv.org/pdf/2012.01353.pdf) </br>
+[CVPR'20] [Towards Streaming Perception](https://arxiv.org/pdf/2005.10420.pdf) </br>
 [NSDI'20] [CarMap: Fast 3D Feature Map Updates for Automobiles](https://www.usenix.org/system/files/nsdi20-paper-ahmad.pdf) </br>
 [RTSS'20] [R-TOD: Real-Time Object Detector with Minimized End-to-End Delay for Autonomous Driving](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9355528) </br>
 [RTAS'20] [Real-Time Object Detection System with Multi-Path Neural Networks](https://ieeexplore.ieee.org/abstract/document/9113124) </br>
