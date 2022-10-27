@@ -39,6 +39,7 @@ System papers for connected and autonomous vehicle research
 [NSDI'20] [CarMap: Fast 3D Feature Map Updates for Automobiles](https://www.usenix.org/system/files/nsdi20-paper-ahmad.pdf) </br>
 [RTSS'20] [R-TOD: Real-Time Object Detector with Minimized End-to-End Delay for Autonomous Driving](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9355528) </br>
 [RTAS'20] [Real-Time Object Detection System with Multi-Path Neural Networks](https://ieeexplore.ieee.org/abstract/document/9113124) </br>
+[ICCV'19] [A Delay Metric for Video Object Detection: What Average Precision Fails to Tell](https://arxiv.org/pdf/1908.06368.pdf) </br>
 [RTAS'19] [Re-Thinking CNN Frameworks for Time-Sensitive Autonomous-Driving Applications: Addressing an Industrial Challenge](https://ieeexplore.ieee.org/abstract/document/8743176) </br>
 [RTSS'18] [ApNet: Approximation-Aware Real-Time Neural Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8603193) </br>
 [RTSS'18] [PredJoule: A Timing-Predictable Energy Optimization Framework for Deep Neural Networks](https://ieeexplore.ieee.org/abstract/document/8603196) </br>
