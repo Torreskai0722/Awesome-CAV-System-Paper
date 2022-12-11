@@ -22,6 +22,7 @@ System papers for connected and autonomous vehicle research
 [PIEEE'11] [Vehicular Channel Characterization and Its Implications for Wireless System Design and Performance](https://thomaszemen.org/papers/Mecklenbraeuker11_ProceedingsIEEE.pdf)
 
 ## Application
+[IROS'22] [From Timing Variations to Performance Degradation: Understanding and Mitigating the Impact of Software Execution Timing in SLAM](https://cybersecurity.seas.wustl.edu/paper/ao-iros22.pdf)
 [ICRA'22] [Real-time Full-stack Traffic Scene Perception for Autonomous Driving with Roadside Cameras](https://arxiv.org/pdf/2206.09770.pdf) </br>
 [RTSS'22] [Prophet: Realizing a Predictable Real-time Perception Pipeline for Autonomous Vehicles](https://www.weisongshi.org/papers/liu22-prophet.pdf) </br>
 [RTAS'22] [DNN-SAM: Split-and-Merge DNN Execution for Real-Time Object Detection](https://ieeexplore.ieee.org/abstract/document/9804671) </br>
