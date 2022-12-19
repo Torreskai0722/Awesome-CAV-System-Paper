@@ -73,4 +73,9 @@ System papers for connected and autonomous vehicle research
 [ASPLOS'18] [The Architectural Implications of Autonomous Driving: Constraints and Acceleration](https://dl.acm.org/doi/pdf/10.1145/3173162.3173191) </br>
 [RTAS'17] [An Evaluation of the NVIDIA TX1 for Supporting Real-time Computer-Vision Workloads](https://ieeexplore.ieee.org/abstract/document/7939053) </br>
 
+## Industrial Solution
+[Apollo by Baidu] [website](https://developer.apollo.auto/) [Related Doc 1](https://github.com/daohu527/dig-into-apollo) [Related Doc 2](https://blog.csdn.net/qq_25762163/category_9599333.html) </br>
+[Autoware] [website](https://www.autoware.org/) </br>
+
+
 Another awesome [Awesome Autonomous Driving](https://github.com/autonomousdrivingkr/Awesome-Autonomous-Driving)
