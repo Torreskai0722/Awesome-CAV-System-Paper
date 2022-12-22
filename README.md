@@ -33,6 +33,7 @@ System papers for connected and autonomous vehicle research
 [RTAS'22] [Brief Industry Paper: Enabling Level-4 Autonomous Driving on a Single $1k Off-the-Shelf Card](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9804610) </br>
 [RTAS'22] [Brief Industry Paper: The Necessity of Adaptive Data Fusion in Infrastructure-Augmented Autonomous Driving System](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9804585) </br>
 [ICDCS'22] [To Turn or Not To Turn, SafeCross is the Answer](https://www.weisongshi.org/papers/wu22-SafeCross.pdf) </br>
+[RTAS'21] [Budget RNNs: Multi-Capacity Neural Networks to Improve In-Sensor Inference Under Energy Budgets](https://par.nsf.gov/servlets/purl/10294870) </br>
 [MobiCom'21] [VI-eye: semantic-based 3D point cloud registration for infrastructure-assisted autonomous driving](https://aiot.ie.cuhk.edu.hk/papers/VI_Eye.pdf) </br>
 [MICRO'21] [Archytas: A Framework for Synthesizing and Dynamically Optimizing Accelerators for Robotic Localization](https://dl.acm.org/doi/pdf/10.1145/3466752.3480077) </br>
 [HPCA'21] [Eudoxus: Characterizing and Accelerating Localization in Autonomous Machines](https://arxiv.org/pdf/2012.01353.pdf) </br>
