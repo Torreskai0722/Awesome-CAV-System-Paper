@@ -48,9 +48,11 @@ System papers for connected and autonomous vehicle research
 [SenSys'11] [Adversarial Attacks against LiDAR Semantic Segmentation in Autonomous Driving](https://dl.acm.org/doi/pdf/10.1145/3485730.3485935) </br>
 
 ## Middleware System
+
 [RA-L'21] [Oops! It’s Too Late. Your Autonomous Driving System Needs a Faster Middleware](https://weisongshi.org/papers/wu21-RAL.pdf) </br>
 [ATC'21] [DART: A Scalable and Adaptive Edge Stream Processing Engine](https://www.usenix.org/conference/atc21/presentation/liu) </br>
 [RTSS'21] [A Middleware Protocol for Time-Critical Wireless Communication of Large Data Samples](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9622332) </br>
+[ECRTS'19][Response-Time Analysis of ROS 2 Processing Chains Under Reservation-Based Scheduling](https://drops.dagstuhl.de/opus/volltexte/2019/10743/pdf/LIPIcs-ECRTS-2019-6.pdf)</br>
 [SEC'19] [E2M: An Energy-Efficient Middleware for Computer Vision Applications on Autonomous Mobile Robots](https://www.weisongshi.org/papers/liu19-E2M.pdf) </br>
 [ICDCS'18] [OpenVDAP: An Open Vehicular Data Analytics Platform for CAVs](https://www.weisongshi.org/papers/zhang18-OpenVDAP.pdf) </br>
 
