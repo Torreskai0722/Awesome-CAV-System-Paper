@@ -4,6 +4,7 @@ System papers for connected and autonomous vehicle research
 **Target venues**: robotics conferences (*IROS/ICRA*); real-time system conferences (*RTSS/RTAS*); computing system conferences (*ATC/EuroSys/NSDI/ASPLOS/MICRO/HPCA/ISCA/MobiCom/MobiSys/SenSys/SEC/ICDCS*); robotics journals (*Science Robotics/T-RO/SoRo/RA-L*).
 
 ## End-to-End System
+[ICRA'23] [An Open Approach to Energy-Efficient Autonomous Mobile Robots](https://www.weisongshi.org/papers/liu23-ICRA.pdf) </br>
 [IROS'22] [MMFN: Multi-Modal-Fusion-Net for End-to-End Driving](https://arxiv.org/pdf/2207.00186.pdf) </br>
 [EuroSys'22] [D3: A Dynamic Deadline-Driven Approach for Building Autonomous Vehicles](https://dl.acm.org/doi/pdf/10.1145/3492321.3519576) </br>
 [MICRO'21] [Building the Computing System for Autonomous Micromobility Vehicles: Design Constraints and Architectural Optimizations](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9251973) </br>
