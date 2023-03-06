@@ -80,6 +80,7 @@ System papers for connected and autonomous vehicle research
 ## Industrial Solution
 [Apollo by Baidu] [website](https://developer.apollo.auto/) [Related Doc 1](https://github.com/daohu527/dig-into-apollo) [Related Doc 2](https://blog.csdn.net/qq_25762163/category_9599333.html) </br>
 [Autoware] [website](https://www.autoware.org/) </br>
+[Comma3] [openpilot](https://github.com/commaai/openpilot) </br>
 
 
 Another awesome [Awesome Autonomous Driving](https://github.com/autonomousdrivingkr/Awesome-Autonomous-Driving)
