@@ -1,8 +1,12 @@
 # Awesome-CAV-System-Paper
 System papers for connected and autonomous vehicle research
 
-**Target venues**: robotics conferences (*IROS/ICRA*); real-time system conferences (*RTSS/RTAS*); computing system conferences (*ATC/EuroSys/NSDI/ASPLOS/MICRO/HPCA/ISCA/MobiCom/MobiSys/SenSys/SEC/ICDCS*); robotics journals (*Nature/Science Robotics/T-RO/TITS/SoRo/RA-L*);
-computer security conferences (*USENIX Security/IEEE S&P/CCS*).
+**Target venues**: 
+ - robotics conferences (*IROS/ICRA*); 
+ - real-time system conferences (*RTSS/RTAS*); 
+ - computing system conferences (*ATC/EuroSys/NSDI/ASPLOS/MICRO/HPCA/ISCA/MobiCom/MobiSys/SEC/ICDCS*); 
+ - robotics journals (*Nature/Science Robotics/T-RO/TITS/SoRo/RA-L*);
+ - computer security conferences (*USENIX Security/IEEE S&P/CCS*).
 
 ## End-to-End System 
 [ICRA'23] [An Open Approach to Energy-Efficient Autonomous Mobile Robots](https://www.weisongshi.org/papers/liu23-ICRA.pdf) </br>
