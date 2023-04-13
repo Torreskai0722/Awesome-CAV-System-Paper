@@ -4,7 +4,7 @@ System papers for connected and autonomous vehicle research
 **Target venues**: 
  - robotics conferences (*IROS/ICRA*); 
  - real-time system conferences (*RTSS/RTAS*); 
- - computing system conferences (*ATC/EuroSys/NSDI/ASPLOS/MICRO/HPCA/ISCA/MobiCom/MobiSys/SEC/ICDCS*); 
+ - computing system conferences (*ATC/EuroSys/NSDI/OSDI/ASPLOS/MICRO/HPCA/ISCA/MobiCom/MobiSys/SEC/ICDCS*); 
  - robotics journals (*Nature/Science Robotics/T-RO/TITS/SoRo/RA-L*);
  - computer security conferences (*USENIX Security/IEEE S&P/CCS*).
 
