@@ -1,7 +1,7 @@
 # Awesome-CAV-System-Paper
 System papers for connected and autonomous vehicle research
 
-**Target venues**: robotics conferences (*IROS/ICRA*); real-time system conferences (*RTSS/RTAS*); computing system conferences (*ATC/EuroSys/NSDI/ASPLOS/MICRO/HPCA/ISCA/MobiCom/MobiSys/SenSys/SEC/ICDCS*); robotics journals (*Science Robotics/T-RO/SoRo/RA-L*).
+**Target venues**: robotics conferences (*IROS/ICRA*); real-time system conferences (*RTSS/RTAS*); computing system conferences (*ATC/EuroSys/NSDI/ASPLOS/MICRO/HPCA/ISCA/MobiCom/MobiSys/SenSys/SEC/ICDCS*); robotics journals (*Nature/Science Robotics/T-RO/TITS/SoRo/RA-L*).
 
 ## End-to-End System
 [ICRA'23] [An Open Approach to Energy-Efficient Autonomous Mobile Robots](https://www.weisongshi.org/papers/liu23-ICRA.pdf) </br>
@@ -24,6 +24,8 @@ System papers for connected and autonomous vehicle research
 [PIEEE'11] [Vehicular Channel Characterization and Its Implications for Wireless System Design and Performance](https://thomaszemen.org/papers/Mecklenbraeuker11_ProceedingsIEEE.pdf)
 
 ## Application
+[Nature'23] [Dense reinforcement learning for safety validation of autonomous vehicles] (https://www.nature.com/articles/s41586-023-05732-2) </br>
+[TITS'23] [Fuel Rate Prediction for Heavy-Duty Trucks] (https://www.weisongshi.org/papers/liu23-fuel.pdf) </br>
 [IROS'22] [From Timing Variations to Performance Degradation: Understanding and Mitigating the Impact of Software Execution Timing in SLAM](https://cybersecurity.seas.wustl.edu/paper/ao-iros22.pdf) </br>
 [ICRA'22] [Real-time Full-stack Traffic Scene Perception for Autonomous Driving with Roadside Cameras](https://arxiv.org/pdf/2206.09770.pdf) </br>
 [RTSS'22] [Prophet: Realizing a Predictable Real-time Perception Pipeline for Autonomous Vehicles](https://www.weisongshi.org/papers/liu22-prophet.pdf) </br>
