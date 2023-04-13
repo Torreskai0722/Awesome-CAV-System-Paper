@@ -1,9 +1,10 @@
 # Awesome-CAV-System-Paper
 System papers for connected and autonomous vehicle research
 
-**Target venues**: robotics conferences (*IROS/ICRA*); real-time system conferences (*RTSS/RTAS*); computing system conferences (*ATC/EuroSys/NSDI/ASPLOS/MICRO/HPCA/ISCA/MobiCom/MobiSys/SenSys/SEC/ICDCS*); robotics journals (*Nature/Science Robotics/T-RO/TITS/SoRo/RA-L*).
+**Target venues**: robotics conferences (*IROS/ICRA*); real-time system conferences (*RTSS/RTAS*); computing system conferences (*ATC/EuroSys/NSDI/ASPLOS/MICRO/HPCA/ISCA/MobiCom/MobiSys/SenSys/SEC/ICDCS*); robotics journals (*Nature/Science Robotics/T-RO/TITS/SoRo/RA-L*);
+computer security conferences (*USENIX Security/IEEE S&P/CCS*).
 
-## End-to-End System
+## End-to-End System 
 [ICRA'23] [An Open Approach to Energy-Efficient Autonomous Mobile Robots](https://www.weisongshi.org/papers/liu23-ICRA.pdf) </br>
 [IROS'22] [MMFN: Multi-Modal-Fusion-Net for End-to-End Driving](https://arxiv.org/pdf/2207.00186.pdf) </br>
 [EuroSys'22] [D3: A Dynamic Deadline-Driven Approach for Building Autonomous Vehicles](https://dl.acm.org/doi/pdf/10.1145/3492321.3519576) </br>
@@ -23,8 +24,15 @@ System papers for connected and autonomous vehicle research
 [RTAS'17] [An Evaluation of the NVIDIA TX1 for Supporting Real-time Computer-Vision Workloads](https://ieeexplore.ieee.org/abstract/document/7939053) </br>
 [PIEEE'11] [Vehicular Channel Characterization and Its Implications for Wireless System Design and Performance](https://thomaszemen.org/papers/Mecklenbraeuker11_ProceedingsIEEE.pdf)
 
+## Computer Security
+[Arxiv'22] [SoK: On the Semantic AI Security in Autonomous Driving](https://arxiv.org/pdf/2203.05314.pdf) </br>
+[USENIX Security'21] [Too Good to Be Safe: Tricking Lane Detection in Autonomous Driving with Crafted Perturbations](https://www.usenix.org/conference/usenixsecurity21/presentation/jing) </br>
+[IEEE S&P'21] [Invisible for both Camera and LiDAR: Security of Multi-Sensor Fusion based Perception in Autonomous Driving Under Physical-World Attacks](https://ieeexplore.ieee.org/document/9519442) </br>
+[USENIX Security'20] [Drift with Devil: Security of Multi-Sensor Fusion based Localization in High-Level Autonomous Driving under GPS Spoofing](https://www.usenix.org/conference/usenixsecurity20/presentation/shen) </br>
+[USENIX Security'20] [Towards Robust LiDAR-based Perception in Autonomous Driving: General Black-box Adversarial Sensor Attack and Countermeasures](https://www.usenix.org/conference/usenixsecurity20/presentation/sun) </br>
+
 ## Application
-[Nature'23] [Dense reinforcement learning for safety validation of autonomous vehicles] (https://www.nature.com/articles/s41586-023-05732-2) </br>
+[Nature'23] [Dense reinforcement learning for safety validation of autonomous vehicles](https://www.nature.com/articles/s41586-023-05732-2) </br>
 [TITS'23] [Fuel Rate Prediction for Heavy-Duty Trucks] (https://www.weisongshi.org/papers/liu23-fuel.pdf) </br>
 [IROS'22] [From Timing Variations to Performance Degradation: Understanding and Mitigating the Impact of Software Execution Timing in SLAM](https://cybersecurity.seas.wustl.edu/paper/ao-iros22.pdf) </br>
 [ICRA'22] [Real-time Full-stack Traffic Scene Perception for Autonomous Driving with Roadside Cameras](https://arxiv.org/pdf/2206.09770.pdf) </br>
