@@ -28,13 +28,6 @@ System papers for connected and autonomous vehicle research
 [RTAS'17] [An Evaluation of the NVIDIA TX1 for Supporting Real-time Computer-Vision Workloads](https://ieeexplore.ieee.org/abstract/document/7939053) </br>
 [PIEEE'11] [Vehicular Channel Characterization and Its Implications for Wireless System Design and Performance](https://thomaszemen.org/papers/Mecklenbraeuker11_ProceedingsIEEE.pdf)
 
-## Computer Security
-[Arxiv'22] [SoK: On the Semantic AI Security in Autonomous Driving](https://arxiv.org/pdf/2203.05314.pdf) </br>
-[USENIX Security'21] [Too Good to Be Safe: Tricking Lane Detection in Autonomous Driving with Crafted Perturbations](https://www.usenix.org/conference/usenixsecurity21/presentation/jing) </br>
-[IEEE S&P'21] [Invisible for both Camera and LiDAR: Security of Multi-Sensor Fusion based Perception in Autonomous Driving Under Physical-World Attacks](https://ieeexplore.ieee.org/document/9519442) </br>
-[USENIX Security'20] [Drift with Devil: Security of Multi-Sensor Fusion based Localization in High-Level Autonomous Driving under GPS Spoofing](https://www.usenix.org/conference/usenixsecurity20/presentation/shen) </br>
-[USENIX Security'20] [Towards Robust LiDAR-based Perception in Autonomous Driving: General Black-box Adversarial Sensor Attack and Countermeasures](https://www.usenix.org/conference/usenixsecurity20/presentation/sun) </br>
-
 ## Application
 [Nature'23] [Dense reinforcement learning for safety validation of autonomous vehicles](https://www.nature.com/articles/s41586-023-05732-2) </br>
 [TITS'23] [Fuel Rate Prediction for Heavy-Duty Trucks] (https://www.weisongshi.org/papers/liu23-fuel.pdf) </br>
@@ -62,6 +55,13 @@ System papers for connected and autonomous vehicle research
 [RTSS'18] [ApNet: Approximation-Aware Real-Time Neural Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8603193) </br>
 [RTSS'18] [PredJoule: A Timing-Predictable Energy Optimization Framework for Deep Neural Networks](https://ieeexplore.ieee.org/abstract/document/8603196) </br>
 [SenSys'11] [Adversarial Attacks against LiDAR Semantic Segmentation in Autonomous Driving](https://dl.acm.org/doi/pdf/10.1145/3485730.3485935) </br>
+
+## Computer Security
+[Arxiv'22] [SoK: On the Semantic AI Security in Autonomous Driving](https://arxiv.org/pdf/2203.05314.pdf) </br>
+[USENIX Security'21] [Too Good to Be Safe: Tricking Lane Detection in Autonomous Driving with Crafted Perturbations](https://www.usenix.org/conference/usenixsecurity21/presentation/jing) </br>
+[IEEE S&P'21] [Invisible for both Camera and LiDAR: Security of Multi-Sensor Fusion based Perception in Autonomous Driving Under Physical-World Attacks](https://ieeexplore.ieee.org/document/9519442) </br>
+[USENIX Security'20] [Drift with Devil: Security of Multi-Sensor Fusion based Localization in High-Level Autonomous Driving under GPS Spoofing](https://www.usenix.org/conference/usenixsecurity20/presentation/shen) </br>
+[USENIX Security'20] [Towards Robust LiDAR-based Perception in Autonomous Driving: General Black-box Adversarial Sensor Attack and Countermeasures](https://www.usenix.org/conference/usenixsecurity20/presentation/sun) </br>
 
 ## Middleware System
 
